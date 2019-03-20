@@ -1,0 +1,281 @@
+iso_full_name,cow_name,iso_nb,cow_nb,iso3_code,cow_code,same,valid_start,valid_end
+Afghanistan,Afghanistan,4,700,AFG,AFG,1,1962,Now
+Albania,Albania,8,339,ALB,ALB,1,1962,Now
+Andorra,Andorra,20,232,AND,AND,1,1962,Now
+Argentina,Argentina,32,160,ARG,ARG,1,1962,Now
+Armenia,Armenia,51,371,ARM,ARM,1,1992,Now
+Azerbaijan,Azerbaijan,31,373,AZE,AZE,1,1992,Now
+Belgium,Belgium,56,211,BEL,BEL,1,1999,Now
+Belgium-Luxembourg,Belgium,58,211,BEL,BEL,1,1962,1998
+Benin,Benin,204,434,BEN,BEN,1,1962,Now
+Belarus,Belarus,112,370,BLR,BLR,1,1992,Now
+Belize,Belize,84,80,BLZ,BLZ,1,1962,Now
+Plurinational State of Bolivia,Bolivia,68,145,BOL,BOL,1,1962,Now
+Brazil,Brazil,76,140,BRA,BRA,1,1962,Now
+Canada,Canada,124,20,CAN,CAN,1,1962,Now
+Chile,Chile,152,155,CHL,CHL,1,1962,Now
+China,China,156,710,CHN,CHN,1,1962,Now
+Colombia,Colombia,170,100,COL,COL,1,1962,Now
+Comoros,Comoros,174,581,COM,COM,1,1962,Now
+Cuba,Cuba,192,40,CUB,CUB,1,1962,Now
+Cyprus,Cyprus,196,352,CYP,CYP,1,1962,Now
+Djibouti,Djibouti,262,522,DJI,DJI,1,1962,Now
+Dominica,Dominica,212,54,DMA,DMA,1,1962,Now
+Dominican Republic,Dominican Republic,214,42,DOM,DOM,1,1962,Now
+Ecuador,Ecuador,218,130,ECU,ECU,1,1962,Now
+Egypt,Egypt,818,651,EGY,EGY,1,1962,Now
+Eritrea,Eritrea,232,531,ERI,ERI,1,1993,Now
+Estonia,Estonia,233,366,EST,EST,1,1992,Now
+Former Ethiopia,Ethiopia,230,530,ETH,ETH,1,1962,1992
+Ethiopia,Ethiopia,231,530,ETH,ETH,1,1993,Now
+Finland,Finland,246,375,FIN,FIN,1,1962,Now
+Federated State of Micronesia,Federated States of Micronesia,583,987,FSM,FSM,1,1992,Now
+Gabon,Gabon,266,481,GAB,GAB,1,1962,Now
+Ghana,Ghana,288,452,GHA,GHA,1,1962,Now
+Guinea-Bissau,Guinea-Bissau,624,404,GNB,GNB,1,1962,Now
+Greece,Greece,300,350,GRC,GRC,1,1962,Now
+Guyana,Guyana,328,110,GUY,GUY,1,1962,Now
+Hungary,Hungary,348,310,HUN,HUN,1,1962,Now
+"India, excluding Sikkim",India,356,750,IND,IND,1,1962,1974
+India,India,699,750,IND,IND,1,1975,Now
+Iran,Iran,364,630,IRN,IRN,1,1962,Now
+Iraq,Iraq,368,645,IRQ,IRQ,1,1962,Now
+Israel,Israel,376,666,ISR,ISR,1,1962,Now
+Italy,Italy,381,325,ITA,ITA,1,1962,Now
+Jamaica,Jamaica,388,51,JAM,JAM,1,1962,Now
+Jordan,Jordan,400,663,JOR,JOR,1,1962,Now
+Japan,Japan,392,740,JPN,JPN,1,1962,Now
+Kenya,Kenya,404,501,KEN,KEN,1,1962,Now
+Kiribati,Kiribati,296,946,KIR,KIR,1,1962,Now
+Lao People's Dem. Rep.,Laos,418,812,LAO,LAO,1,1962,Now
+Liberia,Liberia,430,450,LBR,LBR,1,1962,Now
+Luxembourg,Luxembourg,442,212,LUX,LUX,1,1999,Now
+Mexico,Mexico,484,70,MEX,MEX,1,1962,Now
+Mali,Mali,466,432,MLI,MLI,1,1962,Now
+Malta,Malta,470,338,MLT,MLT,1,1962,Now
+Namibia,Namibia,516,565,NAM,NAM,1,2000,Now
+Nicaragua,Nicaragua,558,93,NIC,NIC,1,1962,Now
+"Norway, Svalbard and Jan Mayen",Norway,579,385,NOR,NOR,1,1962,Now
+Pakistan,Pakistan,586,770,PAK,PAK,1,1972,Now
+"Former Panama, excluding Canal Zone",Panama,590,95,PAN,PAN,1,1962,1977
+Panama,Panama,591,95,PAN,PAN,1,1978,Now
+Peru,Peru,604,135,PER,PER,1,1962,Now
+Papua New Guinea,Papua New Guinea,598,910,PNG,PNG,1,1962,Now
+Poland,Poland,616,290,POL,POL,1,1962,Now
+Democratic People's Republic of Korea,North Korea,408,731,PRK,PRK,1,1962,Now
+Qatar,Qatar,634,694,QAT,QAT,1,1962,Now
+Russian Federation,Russia,643,365,RUS,RUS,1,1992,Now
+Rwanda,Rwanda,646,517,RWA,RWA,1,1962,Now
+Saudi Arabia,Saudi Arabia,682,670,SAU,SAU,1,1962,Now
+Senegal,Senegal,686,433,SEN,SEN,1,1962,Now
+Somalia,Somalia,706,520,SOM,SOM,1,1962,Now
+South Sudan,South Sudan,728,626,SSD,SSD,1,2012,Now
+Sao Tome and Principe,Sao Tome and Principe,678,403,STP,STP,1,1962,Now
+Suriname,Suriname,740,115,SUR,SUR,1,1962,Now
+Syria,Syria,760,652,SYR,SYR,1,1962,Now
+Turkmenistan,Turkmenistan,795,701,TKM,TKM,1,1992,Now
+Tonga,Tonga,776,955,TON,TON,1,1962,Now
+Tunisia,Tunisia,788,616,TUN,TUN,1,1962,Now
+Turkey,Turkey,792,640,TUR,TUR,1,1962,Now
+Tuvalu,Tuvalu,798,947,TUV,TUV,1,1962,Now
+Uganda,Uganda,800,500,UGA,UGA,1,1962,Now
+Ukraine,Ukraine,804,369,UKR,UKR,1,1992,Now
+USA and Puerto Rico,United States of America,841,2,USA,USA,1,1962,1980
+"USA, Puerto Rico and US Virgin Islands",United States of America,842,2,USA,USA,1,1981,Now
+Uzbekistan,Uzbekistan,860,704,UZB,UZB,1,1992,Now
+Venezuela,Venezuela,862,101,VEN,VEN,1,1962,Now
+Samoa,Samoa,882,990,WSM,WSM,1,1962,Now
+Former Arab Republic of Yemen,Yemen,886,679,YEM,YEM,1,1962,1990
+Former Yugoslavia,Yugoslavia,890,345,YUG,YUG,1,1962,1991
+China,Taiwan,156,713,CHN,TAW,0,1962,Now
+Angola,Angola,24,540,AGO,ANG,0,1962,Now
+United Arab Emirates,United Arab Emirates,784,696,ARE,UAE,0,1962,Now
+Antigua and Barbuda,Antigua & Barbuda,28,58,ATA,AAB,0,1962,Now
+Australia,Australia,36,900,AUS,AUL,0,1962,Now
+Austria,Austria,40,305,AUT,AUS,0,1962,Now
+Burundi,Burundi,108,516,BDI,BUI,0,1962,Now
+Burkina Faso,Burkina Faso,854,439,BFA,BFO,0,1962,Now
+Bangladesh,Bangladesh,50,771,BGD,BNG,0,1972,Now
+Bulgaria,Bulgaria,100,355,BGR,BUL,0,1962,Now
+Bahrain,Bahrain,48,692,BHR,BAH,0,1962,Now
+Bahamas,Bahamas,44,31,BHS,BHM,0,1962,Now
+Bosnia Herzegovina,Bosnia and Herzegovina,70,346,BIH,BOS,0,1992,Now
+Barbados,Barbados,52,53,BRB,BAR,0,1962,Now
+Brunei Darussalam,Brunei,96,835,BRN,BRU,0,1962,Now
+Bhutan,Bhutan,64,760,BTN,BHU,0,1962,Now
+Botswana,Botswana,72,571,BWA,BOT,0,2000,Now
+Central African Republic,Central African Republic,140,482,CAF,CEN,0,1962,Now
+"Switzerland, Liechtenstein",Switzerland,757,225,CHE,SWZ,0,1962,Now
+"Switzerland, Liechtenstein",Liechtenstein,757,223,CHE,LIE,0,1962,Now
+Côte d'Ivoire,Ivory Coast,384,437,CIV,CDI,0,1962,Now
+Cameroon,Cameroon,120,471,CMR,CAO,0,1962,Now
+Democratic Republic of the Congo,Democratic Republic of the Congo,180,490,COD,DRC,0,1962,Now
+Congo,Congo,178,484,COG,CON,0,1962,Now
+Cabo Verde,Cape Verde,132,402,CPV,CAP,0,1962,Now
+Costa Rica,Costa Rica,188,94,CRI,COS,0,1962,Now
+Czechoslovakia,Czechoslovakia,200,315,CSK,CZE,0,1962,1992
+Czechia,Czech Republic,203,316,CZE,CZR,0,1993,Now
+Former Democratic Republic of Germany,German Democratic Republic,278,265,DDR,GDR,0,1962,1990
+Germany,Germany,276,255,DEU,GMY,0,1991,Now
+Former Federal Republic of Germany,German Federal Republic,280,260,DEU,GFR,0,1962,1990
+Denmark,Denmark,208,390,DNK,DEN,0,1962,Now
+Algeria,Algeria,12,615,DZA,ALG,0,1962,Now
+Spain,Spain,724,230,ESP,SPN,0,1962,Now
+Fiji,Fiji,242,950,FJI,FIJ,0,1962,Now
+"France, Monaco",France,251,220,FRA,FRN,0,1962,Now
+"France, Monaco",Monaco,251,221,FRA,MNC,0,1962,Now
+United Kingdom,United Kingdom,826,200,GBR,UKG,0,1962,Now
+Georgia,Georgia,268,372,GEO,GRG,0,1992,Now
+Guinea,Guinea,324,438,GIN,GUI,0,1962,Now
+Gambia,Gambia,270,420,GMB,GAM,0,1962,Now
+Equatorial Guinea,Equatorial Guinea,226,411,GNQ,EQG,0,1962,Now
+Grenada,Grenada,308,55,GRD,GRN,0,1962,Now
+Guatemala,Guatemala,320,90,GTM,GUA,0,1962,Now
+Honduras,Honduras,340,91,HND,HON,0,1962,Now
+Croatia,Croatia,191,344,HRV,CRO,0,1992,Now
+Haiti,Haiti,332,41,HTI,HAI,0,1962,Now
+Indonesia,Indonesia,360,850,IDN,INS,0,1962,Now
+Ireland,Ireland,372,205,IRL,IRE,0,1962,Now
+Iceland,Iceland,352,395,ISL,ICE,0,1962,Now
+Kazakhstan,Kazakhstan,398,705,KAZ,KZK,0,1992,Now
+Kyrgyzstan,Kyrgyzstan,417,703,KGZ,KYR,0,1992,Now
+Cambodia,Cambodia,116,811,KHM,CAM,0,1962,Now
+Saint Kitts and Nevis,St. Kitts and Nevis,659,60,KNA,SKN,0,1981,Now
+Republic of Korea,South Korea,410,732,KOR,ROK,0,1962,Now
+Kuwait,Kuwait,414,690,KWT,KUW,0,1962,Now
+Lebanon,Lebanon,422,660,LBN,LEB,0,1962,Now
+Libya,Libya,434,620,LBY,LIB,0,1962,Now
+Saint Lucia,St. Lucia,662,56,LCA,SLU,0,1962,Now
+Sri Lanka,Sri Lanka,144,780,LKA,SRI,0,1962,Now
+Lesotho,Lesotho,426,570,LSO,LES,0,2000,Now
+Lithuania,Lithuania,440,368,LTU,LIT,0,1992,Now
+Latvia,Latvia,428,367,LVA,LAT,0,1992,Now
+Morocco,Morocco,504,600,MAR,MOR,0,1962,Now
+Republic of Moldova,Moldova,498,359,MDA,MLD,0,1992,Now
+Madagascar,Madagascar,450,580,MDG,MAG,0,1962,Now
+Maldives,Maldives,462,781,MDV,MAD,0,1962,Now
+Marshall Islands,Marshall Islands,584,983,MHL,MSI,0,1992,Now
+The Former Yugoslav Republic of Macedonia,Macedonia,807,343,MKD,MAC,0,1993,Now
+Myanmar,Myanmar,104,775,MMR,MYA,0,1962,Now
+Montenegro,Montenegro,499,341,MNE,MNG,0,2006,Now
+Mongolia,Mongolia,496,712,MNG,MON,0,1962,Now
+Mozambique,Mozambique,508,541,MOZ,MZM,0,1962,Now
+Mauritania,Mauritania,478,435,MRT,MAA,0,1962,Now
+Mauritius,Mauritius,480,590,MUS,MAS,0,1962,Now
+Malawi,Malawi,454,553,MWI,MAW,0,1965,Now
+Malaysia,Malaysia,458,820,MYS,MAL,0,1964,Now
+Niger,Niger,562,436,NER,NIR,0,1962,Now
+Nigeria,Nigeria,566,475,NGA,NIG,0,1962,Now
+Netherlands,Netherlands,528,210,NLD,NTH,0,1962,Now
+Nepal,Nepal,524,790,NPL,NEP,0,1962,Now
+Nauru,Nauru,520,970,NRU,NAU,0,1962,Now
+New Zealand,New Zealand,554,920,NZL,NEW,0,1962,Now
+Oman,Oman,512,698,OMN,OMA,0,1962,Now
+Philippines,Philippines,608,840,PHL,PHI,0,1962,Now
+Palau,Palau,585,986,PLW,PAL,0,1992,Now
+Portugal,Portugal,620,235,PRT,POR,0,1962,Now
+Paraguay,Paraguay,600,150,PRY,PAR,0,1962,Now
+Romania,Romania,642,360,ROU,ROM,0,1962,Now
+Sudan,Sudan,729,625,SDN,SUD,0,2012,Now
+Former Sudan,Sudan,736,625,SDN,SUD,0,1962,2011
+Singapore,Singapore,702,830,SGP,SIN,0,1962,Now
+Solomon Islands,Solomon Islands,90,940,SLB,SOL,0,1962,Now
+Sierra Leone,Sierra Leone,694,451,SLE,SIE,0,1962,Now
+El Salvador,El Salvador,222,92,SLV,SAL,0,1962,Now
+San Marino,San Marino,674,331,SMR,SNM,0,2000,Now
+Slovakia,Slovakia,703,317,SVK,SLO,0,1993,Now
+Slovenia,Slovenia,705,349,SVN,SLV,0,1992,Now
+Sweden,Sweden,752,380,SWE,SWD,0,1962,Now
+Swaziland,Swaziland,748,572,SWZ,SWA,0,2000,Now
+Seychelles,Seychelles,690,591,SYC,SEY,0,1962,Now
+Chad,Chad,148,483,TCD,CHA,0,1962,Now
+Togo,Togo,768,461,TGO,TOG,0,1962,Now
+Thailand,Thailand,764,800,THA,THI,0,1962,Now
+Tajikistan,Tajikistan,762,702,TJK,TAJ,0,1992,Now
+Timor-Leste,East Timor,626,860,TLS,ETM,0,1962,Now
+Trinidad and Tobago,Trinidad and Tobago,780,52,TTO,TRI,0,1962,Now
+United Republic of Tanzania,Tanzania,834,510,TZA,TAZ,0,1965,Now
+Uruguay,Uruguay,858,165,URY,URU,0,1962,Now
+Saint Vincent and the Grenadines,St. Vincent and the Grenadines,670,57,VCT,SVG,0,1962,Now
+Viet Nam,Vietnam,704,816,VNM,DRV,0,1975,Now
+Former Republic of Vietnam,Republic of Vietnam,868,817,VNM,RVN,0,1962,1974
+Vanuatu,Vanuatu,548,935,VUT,VAN,0,1962,Now
+Yemen,Yemen Arab Republic,887,678,YEM,YAR,0,1991,Now
+Former Democratic Yemen,Yemen People's Republic,720,680,YMD,YPR,0,1962,1990
+South Africa,South Africa,710,560,ZAF,SAF,0,2000,Now
+Southern African Customs Union,South Africa,711,560,ZAF,SAF,0,1962,1999
+Zambia,Zambia,894,551,ZMB,ZAM,0,1965,Now
+Zimbabwe,Zimbabwe,716,552,ZWE,ZIM,0,1965,Now
+Aruba,,533,,ABW,,N/A,1988,Now
+Anguilla,,660,,AIA,,N/A,1981,Now
+Netherlands Antilles,,530,,ANT,,N/A,1988,2010
+Netherlands Antilles and Aruba,,532,,ANT,,N/A,1962,1987
+American Samoa,,16,,ASM,,N/A,1962,Now
+Antarctica,,10,,ATA,,N/A,1962,Now
+French South Antarctic Territories,,260,,ATF,,N/A,1962,Now
+"Bonaire, Saint Eustatius and Saba",,535,,BES,,N/A,2011,Now
+Saint Barthélemy,,652,,BLM,,N/A,2013,Now
+Bermuda,,60,,BMU,,N/A,1962,Now
+Cocos Islands,,166,,CCK,,N/A,1962,Now
+Cook Islands,,184,,COK,,N/A,1962,Now
+Curaçao,,531,,CUW,,N/A,2010,Now
+Christmas Islands,,162,,CXR,,N/A,1962,Now
+Cayman Islands,,136,,CYM,,N/A,1962,Now
+Western Sahara,,732,,ESH,,N/A,1962,Now
+Falkland Islands (Malvinas),,238,,FLK,,N/A,1962,Now
+Faeroe Islands,,234,,FRO,,N/A,1962,Now
+Gibraltar,,292,,GIB,,N/A,1962,Now
+Guadeloupe,,312,,GLP,,N/A,1962,1995
+Greenland,,304,,GRL,,N/A,1962,Now
+French Guiana,,254,,GUF,,N/A,1962,1995
+Guam,,316,,GUM,,N/A,1962,Now
+"China, Hong Kong Special Administrative Region",,344,,HKG,,N/A,1962,Now
+Heard Island and McDonald Islands,,334,,HMD,,N/A,1962,Now
+British Indian Ocean Territories,,86,,IOT,,N/A,1962,Now
+"Saint Kitts, Nevis and Anguilla",,658,,KNA,,N/A,1962,1980
+"China, Macao Special Administrative Region",,446,,MAC,,N/A,1962,Now
+Northern Mariana Islands,,580,,MNP,,N/A,1992,Now
+Montserrat,,500,,MSR,,N/A,1962,Now
+Martinique,,474,,MTQ,,N/A,1962,1995
+Mayotte,,175,,MYT,,N/A,1962,Now
+New Caledonia,,540,,NCL,,N/A,1962,Now
+Norfolk Islands,,574,,NFK,,N/A,1962,Now
+Niue,,570,,NIU,,N/A,1962,Now
+East and West Pakistan,,588,,PAK,,N/A,1962,1971
+Former Pacific Islands,,582,,PCI,,N/A,1962,1991
+Pitcairn,,612,,PCN,,N/A,1962,Now
+Former Panama-Canal-Zone,,592,,PCZ,,N/A,1962,1977
+State of Palestine,,275,,PSE,,N/A,2000,Now
+French Polynesia,,258,,PYF,,N/A,1962,Now
+Réunion,,638,,REU,,N/A,1962,1995
+Serbia and Montenegro,,891,,SCG,,N/A,1992,2005
+South Georgia and the South Sandwich Islands,,239,,SGS,,N/A,1962,Now
+Saint Helena,,654,,SHN,,N/A,1962,Now
+Saint Pierre and Miquelon,,666,,SPM,,N/A,1962,Now
+Serbia,,688,,SRB,,N/A,2006,Now
+Former USSR,,810,,SUN,,N/A,1962,1991
+Saint Maarten (Dutch part),,534,,SXM,,N/A,2010,Now
+Turks and Caicos Islands,,796,,TCA,,N/A,1962,Now
+Tokelau,,772,,TKL,,N/A,1962,Now
+United States Minor Outlying Islands,,581,,UMI,,N/A,1962,Now
+Holy See (Vatican City State),,336,,VAT,,N/A,2000,Now
+Former Democratic Republic of Vietnam,,866,,VDR,,N/A,1962,1974
+British Virgin Islands,,92,,VGB,,N/A,1962,Now
+US Virgin Islands,,850,,VIR,,N/A,1962,1980
+Wallis and Futuna Islands,,876,,WLF,,N/A,1962,Now
+,Austria-Hungary,,300,,AUH,N/A,,
+,Baden,,267,,BAD,N/A,,
+,Bavaria,,245,,BAV,N/A,,
+,Hanover,,240,,HAN,N/A,,
+,Hesse Electoral,,273,,HSE,N/A,,
+,Hesse Grand Ducal,,275,,HSG,N/A,,
+,Kosovo,,347,,KOS,N/A,,
+,Mecklenburg Schwerin,,280,,MEC,N/A,,
+,Modena,,332,,MOD,N/A,,
+,Parma,,335,,PMA,N/A,,
+,Saxony,,269,,SAX,N/A,,
+,Two Sicilies,,329,,SIC,N/A,,
+,Tuscany,,337,,TUS,N/A,,
+,Wuerttemburg,,271,,WRT,N/A,,
+,Zanzibar,,511,,ZAN,N/A,,
+,Papal States,,327,,PAP,N/A,,
