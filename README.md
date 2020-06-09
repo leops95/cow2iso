@@ -1,6 +1,6 @@
 # cow2iso
 
-This is a Stata do-file for converting the [Correlates of War](http://www.correlatesofwar.org/) (COW) country classification into the conventional [United Nations ISO 3166-1 alpha-3](https://unstats.un.org/unsd/tradekb/Knowledgebase/Country-Code) (ISO3) nomenclature.
+This is a Stata do-file for converting the [Correlates of War](http://www.correlatesofwar.org/) (COW) country classification into the conventional [United Nations ISO 3166-1 alpha-3](https://unstats.un.org/unsd/tradekb/Knowledgebase/Country-Code) (ISO3) nomenclature. Some observations cannot be merged as they refer to historical countries that do not exist anymore.
 
 Please refer to the COW website for eventual classification changes and updates. All remaining errors are my own.
 
