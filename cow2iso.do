@@ -15,7 +15,7 @@ generate cow3 = ""
 
 replace cow3 = "ANG" if iso3 == "AGO"
 replace cow3 = "UAE" if iso3 == "ARE"
-replace cow3 = "AAB" if iso3 == "ATA"
+replace cow3 = "AAB" if(iso3 == "ATA" & iso2 == "AG")
 replace cow3 = "AUS" if iso3 == "AUT"
 replace cow3 = "AUL" if iso3 == "AUS"
 replace cow3 = "BUI" if iso3 == "BDI"
@@ -41,7 +41,7 @@ replace cow3 = "CZE" if iso3 == "CSK"
 replace cow3 = "CZR" if iso3 == "CZE"
 replace cow3 = "GDR" if iso3 == "DDR"
 replace cow3 = "GMY" if iso3 == "DEU"
-replace cow3 = "GFR" if iso3 == "DEU"
+replace cow3 = "GFR" if(iso3 == "DEU" & valid_until == "1990")
 replace cow3 = "DEN" if iso3 == "DNK"
 replace cow3 = "ALG" if iso3 == "DZA"
 replace cow3 = "SPN" if iso3 == "ESP"
@@ -122,7 +122,8 @@ replace cow3 = "SVG" if iso3 == "VCT"
 replace cow3 = "DRV" if iso3 == "VNM"
 replace cow3 = "RVN" if iso3 == "VNM"
 replace cow3 = "VAN" if iso3 == "VUT"
-replace cow3 = "YAR" if iso3 == "YEM"
+replace cow3 = "YEM" if iso3 == "YEM"
+replace cow3 = "YAR" if(iso3 == "YEM" & valid_until == "1990")
 replace cow3 = "YPR" if iso3 == "YMD"
 replace cow3 = "SAF" if iso3 == "ZAF"
 replace cow3 = "ZAM" if iso3 == "ZMB"
@@ -140,15 +141,23 @@ rename ccode cow_id
 
 merge m:m cow3 using `iso'
 
+replace cow3 = "" if cow_id == .
+replace cow3 = "" if iso3 == "MAC"
+replace cow_id = "" if iso3 == "MAC"
+
 replace valid_until = "" if valid_until == "Now"
 destring valid_until, replace
 
 replace cname = statenme if _merge == 1
 
-drop _merge statenme
+bysort cow_id cow3 iso_id iso2 iso3 valid_from valid_until cname: gen dup = cond(_N == 1, 0, _n)
+tab dup
+drop if dup > 1
+
+drop _merge dup statenme
 
 order cow_id cow3 iso_id iso2 iso3 valid_from valid_until cname cname_full comments
 
-sort cow3 iso3
+sort cow_id iso3
 
 export delimited using cow2iso.csv, replace
